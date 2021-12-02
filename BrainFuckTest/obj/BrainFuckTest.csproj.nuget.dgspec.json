@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuckTest/BrainFuckTest.csproj": {}
+  },
+  "projects": {
+    "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuck/BrainFuck.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuck/BrainFuck.csproj",
+        "projectName": "BrainFuck",
+        "projectPath": "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuck/BrainFuck.csproj",
+        "packagesPath": "/Users/abdulmuqeet/.nuget/packages/",
+        "outputPath": "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuck/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/abdulmuqeet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NCrunch.Framework": {
+              "target": "Package",
+              "version": "[4.7.0.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuckTest/BrainFuckTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuckTest/BrainFuckTest.csproj",
+        "projectName": "BrainFuckTest",
+        "projectPath": "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuckTest/BrainFuckTest.csproj",
+        "packagesPath": "/Users/abdulmuqeet/.nuget/packages/",
+        "outputPath": "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuckTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/abdulmuqeet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuck/BrainFuck.csproj": {
+                "projectPath": "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuck/BrainFuck.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NCrunch.Framework": {
+              "target": "Package",
+              "version": "[4.7.0.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

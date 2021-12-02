@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "3qpvlg/hkK2IBG8WI7z4Z0PQDmdp1eRCLcag8vdPaME0RGMjI8cLrtyRFi0i/kPDDc116seK1oF95svPQQG5TQ==",
+  "success": true,
+  "projectFilePath": "/Users/abdulmuqeet/Documents/Projects/BrainFuck/BrainFuck/BrainFuck.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/abdulmuqeet/.nuget/packages/ncrunch.framework/4.7.0.4/ncrunch.framework.4.7.0.4.nupkg.sha512",
+    "/Users/abdulmuqeet/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/abdulmuqeet/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/Users/abdulmuqeet/.nuget/packages/nunit3testadapter/4.1.0/nunit3testadapter.4.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.collections.nongeneric/4.3.0/system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.resources.resourcemanager/4.3.0/system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
